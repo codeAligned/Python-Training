@@ -26,7 +26,8 @@ SECRET_KEY = 'r!c9hp(^6-f!dthdi@g514v%pp!4a07*lrci(mpo%$y&ymz_f8'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'gregend.pythonanywhere.com'
+    'gregend.pythonanywhere.com',
+    'localhost'
 ]
 
 
