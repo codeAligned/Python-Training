@@ -25,7 +25,9 @@ SECRET_KEY = 'r!c9hp(^6-f!dthdi@g514v%pp!4a07*lrci(mpo%$y&ymz_f8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'gregend.pythonanywhere.com'
+]
 
 
 # Application definition
